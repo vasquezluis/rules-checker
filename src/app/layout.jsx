@@ -7,7 +7,7 @@ import Footer from '@/components/_partials/Footer'
 
 export const metadata = {
   title: 'Rules Checker',
-  description: 'Check documents using AI'
+  description: ' | Check documents using AI'
 }
 
 export default function RootLayout ({ children }) {
