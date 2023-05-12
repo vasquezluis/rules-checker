@@ -1,6 +1,6 @@
 function HomePage () {
   return (
-    <div>Aplicacion con Nextjs 13</div>
+    <div className='bg-red-400'>Aplicacion para revision de trabajos de graduacion (AI)</div>
   )
 }
 
